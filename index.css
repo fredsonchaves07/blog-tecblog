@@ -1,6 +1,29 @@
-.menu-principal{
-    border: 1px solid black;
-    color: #BDBDBD;
-    background-color: yellow;
+body{
+    font-family: "Trebuchet MS", Helvetica, sans-serif;
 }
 
+.cabecalho-principal{
+    border: 1px solid black;
+    background-color: #f7b600;
+    text-align: center;
+}
+
+.branco{
+    color: #ffffff
+}
+
+.titulo-principal{
+    font-size: 40px;
+    color: #4e4e4e;
+}
+
+.navegacao{
+    border: 1px solid black;
+    margin-bottom: 10px;
+}
+
+.itens-navegacao{
+    display: inline-block;
+    border: 2px solid black;
+    margin: 10px;
+}
