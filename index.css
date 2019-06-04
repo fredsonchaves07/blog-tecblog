@@ -17,14 +17,20 @@ body{
     width: 15%;
 }
 
+
 .postagens-recentes h3{
     border: 1px solid black;
     color: #565656;
     background-color: #CCC;
+    margin-top: 1px;
+    margin-bottom: 4px;
 }
 
 .postagens-recentes span{
-    width: 10%;
+    font-size: 0.8rem;
+    border: 1px solid black;
+    display: inline-block;
+    border-bottom: 1px thick black;
 }
 
 .branco{
